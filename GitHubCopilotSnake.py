@@ -5,8 +5,8 @@ import random
 pygame.init()
 
 # Set up the game window
-window_width = 800
-window_height = 600
+window_width = 1200
+window_height = 800
 window = pygame.display.set_mode((window_width, window_height))
 pygame.display.set_caption("Snake Game")
 
