@@ -10,7 +10,7 @@ window_height = 600
 window = pygame.display.set_mode((window_width, window_height))
 pygame.display.set_caption("Snake Game")
 
-# Set up colors
+# Set up colours
 black = (0, 0, 0)
 white = (255, 255, 255)
 red = (255, 0, 0)
